@@ -28,13 +28,13 @@ Approach: Data cleaning, querying, and exploration through SQL, and Data Visuali
 [![Screenshot-680.png](https://i.postimg.cc/g0MnKmDr/Screenshot-680.png)](https://postimg.cc/wtmqqKnd)
 
 
-[![Screenshot-679.png](https://i.postimg.cc/RVzVKWBX/Screenshot-679.png)](https://postimg.cc/14JQZ54q)
+[![Screenshot-697.png](https://i.postimg.cc/SKs4WNJz/Screenshot-697.png)](https://postimg.cc/sMtbzzPV)
 
 
 [![Screenshot-683.png](https://i.postimg.cc/RCJLqDSw/Screenshot-683.png)](https://postimg.cc/grdZT460)
 
 
-[![Screenshot-684.png](https://i.postimg.cc/KY4gw14t/Screenshot-684.png)](https://postimg.cc/4KkdhN63)
+[![Screenshot-698.png](https://i.postimg.cc/HsgC6trm/Screenshot-698.png)](https://postimg.cc/yWv5dchp)
 
 
 [![Screenshot-685.png](https://i.postimg.cc/L4yF6hsJ/Screenshot-685.png)](https://postimg.cc/CdfQchk0)
